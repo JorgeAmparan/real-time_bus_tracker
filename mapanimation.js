@@ -3,7 +3,7 @@ var map;
 var markers = [];
 
 // load map
-function init(){
+function initMap(){
 	var myOptions = {
 		zoom      : 14,
 		center    : { lat:42.353350,lng:-71.091525},
@@ -84,4 +84,4 @@ function getMarker(id){
 	return marker;
 }
 
-window.onload = init;
+window.onload = initMap;
