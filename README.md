@@ -3,6 +3,8 @@
 > This is an exercise that I carried out as part of a project with my course MIT xPRO Professional Certificate in Coding: Full Stack Development with MERN. 
 > The main purpose of this project is to show bus locations in real time as they move on a daily basis throughout their routes in the city of Boston.
 
+Check this project here: [MTBA Route #1 Bus Tracker in Real Time](https://jorgeamparan.github.io/real-time_bus_tracker)
+
 ![Map](https://github.com/JorgeAmparan/real-time_bus_tracker/blob/8409e3124c274bc98514c09d2f51d08e56a301ad/MTBA%20Route%20%231%20Bus%20Locations%20in%20Real%20Time.png)
 
 > If you'd like to run this project in your machine: 
