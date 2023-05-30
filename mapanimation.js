@@ -86,4 +86,3 @@ function getMarker(id){
 
 window.onload = initMap;
 
-run();
