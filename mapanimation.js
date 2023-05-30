@@ -85,3 +85,5 @@ function getMarker(id){
 }
 
 window.onload = initMap;
+
+on();
